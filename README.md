@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am Zeynep Can Celikoglu
+![Twitter URL](https://img.shields.io/twitter/url?label=People%20following%20on%20Twitter&style=social&url=bennezmnbuyucem)
 
 <!--
 **zycncl/zycncl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
