@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bennezmnbuyucem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bennezmnbuyucem" height="30" width="40" /></a>
+<a href="https://twitter.com/kodveotesi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/kodveotesi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/zeynepcancelikoglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/zeynepcancelikoglu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15619737/zycncl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/15619737/zycncl" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/zeynepcancelikoglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/zeynepcancelikoglu" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/bennezmnbuyucem/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/bennezmnbuyucem/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/kodveotesi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/kodveotesi/" height="30" width="40" /></a>
 <a href="https://medium.com/@zeynepcancelikoglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@zeynepcancelikoglu" height="30" width="40" /></a>
 </p>
 
