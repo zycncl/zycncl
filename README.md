@@ -35,4 +35,6 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" 
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://app.powerbi.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.python.org" 
