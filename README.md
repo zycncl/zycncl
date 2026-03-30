@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Zeynep Can Celikoglu</h1>
-<h3 align="center">I have a Bachelor's degree in Statistics with a specialization in Data Science</h3>
+<h1 align="center">Hi 👋, I'm Zeynep Can CELIKOGLU</h1>
+<h3 align="center">I have a Bachelor's degree in Statistics with a specialization in Data Science
+and focus on business development through Business Intelligence and data-driven analytics projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zycncl&label=Profile%20views&color=0e75b6&style=flat" alt="zycncl" /> </p>
 
 - 🌱 I’m currently using  **Scikit-learn & Pandas & Numpy**
 
-- 📝 I regularly write articles on [https://zeynepcancelikoglu.medium.com/](https://zeynepcancelikoglu.medium.com/)
+- 📝 I regularly write articles on ✍️ <a href="https://zeynepcancelikoglu.medium.com/" target="_blank"><img src="Screenshot_14.png" width="100" style="text-decoration:none;vertical-align:middle;margin-right:20px;s"/> <b>Kod ve Ötesi 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
