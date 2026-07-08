@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Zeynep Can CELIKOGLU</h1>
-<h3 align="center">I have a Bachelor's degree in Statistics with a specialization in Data Science
-and focus on business development through Business Intelligence and data-driven analytics projects.</h3>
+<h3 align="center">I have a Bachelor's degree in Statistics with a specialization in Data Science </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zycncl&label=Profile%20views&color=0e75b6&style=flat" alt="zycncl" /> </p>
 
